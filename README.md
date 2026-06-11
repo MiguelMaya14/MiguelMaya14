@@ -24,7 +24,7 @@ I am a passionate **Information Technologies (ICT)** student specializing in **D
 
 ##  Featured Projects
 
-###  [Deep Learning Project: Diabetes Risk Prediction][(https://github.com/MiguelMaya14/INTEGRATIVE-PROJECT-CLINICAL-MANAGEMENT-SYSTEM.git)
+###  [Deep Learning Project: Diabetes Risk Prediction](https://github.com/MiguelMaya14/INTEGRATIVE-PROJECT-CLINICAL-MANAGEMENT-SYSTEM.git)
 *Machine Learning Developer*
 - Designed and trained a **second-generation Artificial Neural Network (ANN)** with 32 hidden layers using a health dataset from Kaggle.
 - Implemented **ReLU** activation functions to maintain stable gradient propagation and a **Sigmoid** function for accurate binary risk classification.
