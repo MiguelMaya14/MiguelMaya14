@@ -30,7 +30,7 @@ I am a passionate **Information Technologies (ICT)** student specializing in **D
 - Implemented **ReLU** activation functions to maintain stable gradient propagation and a **Sigmoid** function for accurate binary risk classification.
 - Conducted full exploratory data analysis (EDA) and data preprocessing to ensure data integrity.
 
-### 🏥 [Clinical Management & Scheduling System](https://github.com/MiguelMaya14/INTEGRATIVE-PROJECT-CLINICAL-MANAGEMENT-SYSTEM.git))
+### 🏥 [Clinical Management & Scheduling System](https://github.com/MiguelMaya14/INTEGRATIVE-PROJECT-CLINICAL-MANAGEMENT-SYSTEM.git)
 *Web & Database Integration Developer*
 - Co-developed an integrative clinic platform featuring a patient-facing web app and a desktop administration software.
 - Engineered the core **database connection layer** using **JavaScript** to handle real-time patient data and appointment scheduling.
@@ -38,10 +38,10 @@ I am a passionate **Information Technologies (ICT)** student specializing in **D
 
 ---
 
-## 📜 Certifications & Languages
+## 📜 Certifications & Languages(https://github.com/MiguelMaya14/Certifications.git)
 
 - **Languages:** Spanish (Native) | **English (Advanced / C1 Level)**
-- **English Language Certification:** *[Name of your certification, e.g., Cambridge C1 Advanced / TOEFL / IELTS]* — Verifies professional fluency and capability to work effectively in international, English-speaking technical environments.
+- **English Language Certification:** *[APTIS]* — Verifies professional fluency and capability to work effectively in international, English-speaking technical environments.
 
 ---
 
