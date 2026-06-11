@@ -38,7 +38,7 @@ I am a passionate **Information Technologies (ICT)** student specializing in **D
 
 ---
 
-## 📜 Certifications & Languages(https://github.com/MiguelMaya14/Certifications.git)
+## [Certifications & Languages](https://github.com/MiguelMaya14/Certifications.git)
 
 - **Languages:** Spanish (Native) | **English (Advanced / C1 Level)**
 - **English Language Certification:** *[APTIS]* — Verifies professional fluency and capability to work effectively in international, English-speaking technical environments.
