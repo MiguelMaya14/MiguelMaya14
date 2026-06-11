@@ -30,7 +30,7 @@ I am a passionate **Information Technologies (ICT)** student specializing in **D
 - Implemented **ReLU** activation functions to maintain stable gradient propagation and a **Sigmoid** function for accurate binary risk classification.
 - Conducted full exploratory data analysis (EDA) and data preprocessing to ensure data integrity.
 
-### 🏥 [Clinical Management & Scheduling System](LINK_A_TU_REPOSITORIO)
+### 🏥 [Clinical Management & Scheduling System](https://github.com/MiguelMaya14/INTEGRATIVE-PROJECT-CLINICAL-MANAGEMENT-SYSTEM.git))
 *Web & Database Integration Developer*
 - Co-developed an integrative clinic platform featuring a patient-facing web app and a desktop administration software.
 - Engineered the core **database connection layer** using **JavaScript** to handle real-time patient data and appointment scheduling.
